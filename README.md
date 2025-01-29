@@ -3,10 +3,11 @@
 ### Summary: Include screenshots or a video of your app highlighting its features
 | Home | Detail | Empty | Failure |
 |-|-|-|-|
-| ![Simulator Screenshot - iPhone 16 Pro - 2025-01-29 at 09 50 43](https://github.com/user-attachments/assets/28943807-5447-4710-866e-1d6e7c7accbb) | ![Simulator Screenshot - iPhone 16 Pro - 2025-01-29 at 09 58 19](https://github.com/user-attachments/assets/272a3dec-2ae2-4eb6-b67a-0b2b6ed3b85a) | ![Simulator Screenshot - iPhone 16 Pro - 2025-01-29 at 09 51 05](https://github.com/user-attachments/assets/64526a67-143f-4815-8655-4eedfb808b95) | ![Simulator Screenshot - iPhone 16 Pro - 2025-01-29 at 09 51 15](https://github.com/user-attachments/assets/f4a8fc04-95a0-4952-8b7e-c1c7b63e776d) |
-| Home | Detail | Empty | Failure |
-| ![Simulator Screenshot - iPhone 16 Pro - 2025-01-29 at 09 50 51](https://github.com/user-attachments/assets/d24ca982-316f-4f8a-86d7-99de5c44f06b) | ![Simulator Screenshot - iPhone 16 Pro - 2025-01-29 at 09 58 15](https://github.com/user-attachments/assets/7907dad6-7f9f-4124-985f-8b4c1498f962) | ![Simulator Screenshot - iPhone 16 Pro - 2025-01-29 at 09 51 07](https://github.com/user-attachments/assets/18389203-8b9e-4bf6-912d-55e768bf1212) | ![Simulator Screenshot - iPhone 16 Pro - 2025-01-29 at 09 51 17](https://github.com/user-attachments/assets/46dfe039-007a-4fd0-b7b6-97cd0b6e0d52) |
+| ![Home Light theme](docs/assets/home-light.png) | ![Details Light theme](docs/assets/details-light.png) | ![Empty Light theme](docs/assets/empty-light.png) | ![Failure Light theme](docs/assets/failure-light.png) |
+| ![Home dark theme](docs/assets/home-dark.png) | ![Details dark theme](docs/assets/details-dark.png) | ![Empty dark theme](docs/assets/empty-dark.png) | ![Failure dark theme](docs/assets/failure-dark.png) |
 
+### Demo video
+<img src="docs/assets/demo.gif" alt="Demo video" width="300">
 
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
 - Focused on optimizing the user experience by ensuring an intuitive, smooth, and functional interface.
